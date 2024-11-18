@@ -1,0 +1,6 @@
+{
+  "id" : "1",
+  "sender" : "John",
+  "recipient" : "Jane",
+  "amount" : "500"
+}
